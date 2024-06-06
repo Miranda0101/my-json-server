@@ -1346,5 +1346,109 @@
 			"required": true,
 			"credit": 3
 		}
-	]
+	],
+	weather: 
+		[
+    {
+        "city": "New York",
+        "weather": {
+            "temperature": 22,
+            "description": "Sunny",
+            "humidity": 55,
+            "wind_speed": 10,
+            "icon": "01d"
+        }
+    },
+    {
+        "city": "Los Angeles",
+        "weather": {
+            "temperature": 28,
+            "description": "Partly Cloudy",
+            "humidity": 65,
+            "wind_speed": 5,
+            "icon": "02d"
+        }
+    },
+    {
+        "city": "Chicago",
+        "weather": {
+            "temperature": 18,
+            "description": "Cloudy",
+            "humidity": 70,
+            "wind_speed": 15,
+            "icon": "03d"
+        }
+    },
+    {
+        "city": "Houston",
+        "weather": {
+            "temperature": 30,
+            "description": "Clear Sky",
+            "humidity": 60,
+            "wind_speed": 8,
+            "icon": "01d"
+        }
+    },
+    {
+        "city": "Phoenix",
+        "weather": {
+            "temperature": 35,
+            "description": "Hot",
+            "humidity": 20,
+            "wind_speed": 12,
+            "icon": "01d"
+        }
+    },
+    {
+        "city": "Philadelphia",
+        "weather": {
+            "temperature": 20,
+            "description": "Rain",
+            "humidity": 80,
+            "wind_speed": 20,
+            "icon": "09d"
+        }
+    },
+    {
+        "city": "San Antonio",
+        "weather": {
+            "temperature": 32,
+            "description": "Thunderstorm",
+            "humidity": 75,
+            "wind_speed": 25,
+            "icon": "11d"
+        }
+    },
+    {
+        "city": "San Diego",
+        "weather": {
+            "temperature": 24,
+            "description": "Drizzle",
+            "humidity": 68,
+            "wind_speed": 6,
+            "icon": "10d"
+        }
+    },
+    {
+        "city": "Dallas",
+        "weather": {
+            "temperature": 29,
+            "description": "Windy",
+            "humidity": 58,
+            "wind_speed": 30,
+            "icon": "50d"
+        }
+    },
+    {
+        "city": "San Jose",
+        "weather": {
+            "temperature": 27,
+            "description": "Haze",
+            "humidity": 40,
+            "wind_speed": 5,
+            "icon": "50d"
+        }
+    }
+]
+
 }
