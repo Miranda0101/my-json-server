@@ -1347,7 +1347,7 @@
 			"credit": 3
 		}
 	],
-	weather: 
+	"weather": 
 		[
     {
         "city": "New York",
